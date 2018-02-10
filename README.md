@@ -1,3 +1,4 @@
 # hello-world
 hello-worlds
-master
+＃简介
+开始学习G
